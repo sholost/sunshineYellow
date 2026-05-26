@@ -9,7 +9,7 @@ import SwiftUI
 
 struct MeView: View {
     var body: some View {
-        Text("Hello World")
+        Text("Let's break your fast")
             .foregroundStyle(Color.white)
     }
 }
