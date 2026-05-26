@@ -15,7 +15,7 @@ struct ContentView: View {
                 TodayView()
             }
             
-            Tab("Log", systemImage: "tray.and.arrow.up.fill", value: 1) {
+            Tab("Log Tommorrow", systemImage: "tray.and.arrow.up.fill", value: 1) {
                 LogView()
             }
             
