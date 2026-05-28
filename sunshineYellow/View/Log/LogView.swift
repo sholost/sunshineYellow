@@ -9,6 +9,6 @@ import SwiftUI
 
 struct LogView: View {
     var body: some View {
-        Text("Hello, World!")
+        Text("Salam Syududu, Salam Persatuan, Salam-salaman")
     }
 }
